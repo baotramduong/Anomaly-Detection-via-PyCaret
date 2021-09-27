@@ -15,6 +15,10 @@ Anomaly detection has been successfully implemented in various industries: email
 
 This project is for beginners like me, who are working and learning about data science and machine learning yet have little or no background in coding. It can be argued that Data scientists or analysts should spend more time experimenting rather than coding. PyCaret allows us to go from 0 to 100 in preparing our data to deploying our model in just a few lines of code.
 
+## Data Source
+
+PyCaret hosts the repository of open source datasets. We will be using one of these datasets, specifically the "anomaly" dataset, for our purpose of anomaly detection of this project.
+
 ## Exploratory Data Analysis
 
 <img src = '../main/Data & Images/swarmplot.png'>
